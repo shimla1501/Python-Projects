@@ -13,8 +13,8 @@ while True:
             break
     else:
         continue
-    
+
     if lagi.lower() == 'ya':
         continue
-    elif lagi.lower() == 'tidak':
+    if lagi.lower() == 'tidak':
         break
